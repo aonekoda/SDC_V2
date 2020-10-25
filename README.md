@@ -12,10 +12,10 @@
   * Scikit-learn
   * 데이터 전처리
   * 지도학습
-   * 선형회귀
-   * 로지스틱회귀
-   * SVM
-   * DecisionTree
-   * RandomForest
- * 비지도학습
-  * 군집분석
+    * 선형회귀
+    * 로지스틱회귀
+    * SVM
+    * DecisionTree
+    * RandomForest
+  * 비지도학습
+    * 군집분석
