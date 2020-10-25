@@ -17,5 +17,5 @@
    * SVM
    * DecisionTree
    * RandomForest
-  * 비지도학습
-    * 군집분석
+ * 비지도학습
+  * 군집분석
